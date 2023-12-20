@@ -1,7 +1,7 @@
 variable "gcp_credentials" {
-   description = "service account credentials for buckets deployments"
-   type        = string
- }
+  description = "service account credentials for buckets deployments"
+  type        = string
+}
 
 variable "gcp_project_id" {
   description = "project id for bucket deployments"
