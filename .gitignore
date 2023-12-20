@@ -1,8 +1,4 @@
 .terraform*
-terraform.tfvars
-terraform.pub
+terraform.tfvars*
+terraform.pub*
 terraform.tfstate*
-*override*
-docker-compose.override.*
-backend.tf
-.infracost
