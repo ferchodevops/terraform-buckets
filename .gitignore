@@ -1,4 +1,6 @@
-*.terraform
-*.tfvars
-*terraform.pub
+.terraform/
 *.tfstate
+*.tfstate.*
+*.tfvars
+terraform.tfstate.backup
+terraform.tfplan
